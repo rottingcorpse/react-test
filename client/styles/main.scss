@@ -1,6 +1,31 @@
-$background: lightblue;
-
 body {
-  background: $background;
-  font-family: "Helvetica Neue", serif;
+    font-family: "Helvetica Neue", serif;
+}
+
+form .cell {
+    margin: 5px;
+}
+
+label {
+    width: 100px;
+    display: inline-block;
+}
+
+input {
+    width: 200px;
+    display: inline-block;
+}
+
+input[type=submit] {
+    width: 300px;
+    display: block;
+    margin: 20px 0;
+    color: white;
+    background-color: black;
+}
+
+th,
+td {
+    border: 1px solid #333;
+    padding: 10px;
 }
