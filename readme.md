@@ -23,4 +23,4 @@ Go to [http://localhost:3001](http://localhost:3001)
 $ npm test
 ```
 
-Unfortunately, I didn't have enought knowledge and time to prepare tests for existing functionality.
+Unfortunately, I didn't have enough knowledge and time to prepare tests for existing functionality.
